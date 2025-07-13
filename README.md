@@ -12,6 +12,27 @@ I love creating things — whether it's editing photos, writing code, or explori
 
 ---
 
+## 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/aryan-saxena-57b180370/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/aryan56" target="_blank">
+    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+
 ## 🚀 Projects
 
 ### 🩺 [DiagnoseAI](https://diagnoseai-phi.vercel.app/)
