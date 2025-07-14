@@ -13,25 +13,18 @@ I love creating things — whether it's editing photos, writing code, or explori
 ---
 
 ## 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/aryan-saxena-57b180370/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p align="left"> <a href="https://www.linkedin.com/in/aryan-saxena-57b180370/" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://www.kaggle.com/aryan56" target="_blank"> <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /> </a>
+  <a href="mailto:ryxn911@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.kaggle.com/aryan56" target="_blank">
-    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</p>
   </a>
 </p>
 
 ---
 
-## 🛠️ Technical Skills
-
-### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
+## 🛠️ Languages & Tools
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" style="margin-right: 15px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" style="margin-right: 15px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" style="margin-right: 15px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" /> </p>
 
 ## 🚀 Projects
 
@@ -57,13 +50,12 @@ A smart web-based symptom tracker and disease predictor using machine learning.
 ## 🌱 Currently Learning
 
 - Python 🐍
+- Machine Learning
 - Ai Workflow📊
+  
 
 ---
 
-## 🤝 Let's Connect
-
-- 📫 Email: `ryxn911@gmail.com`
 - 🌐 Portfolio (coming soon...)
 - 💬 Open to collaborations, internships, and tech discussions!
 
