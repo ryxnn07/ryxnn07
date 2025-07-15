@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Aryan</h1>
 
 <p align="center">
-🎓 B.Tech CSE (Data Science) Student &nbsp;|&nbsp; 💻 Developer &nbsp;|&nbsp; 🤖 AI Enthusiast &nbsp;|&nbsp; 🎬 Cinephile
+<strong>🎓 B.Tech CSE (Data Science) Student &nbsp;|&nbsp; 💻 Developer &nbsp;|&nbsp; 🤖 AI Enthusiast &nbsp;|&nbsp; 🎬 Cinephile</strong>
 </p>
 
 ---
@@ -20,28 +20,23 @@ I love creating things — whether it's editing photos, writing code, or explori
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aryan-saxena-57b180370/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48px"/></a>
+
   </a>
-  <a href="https://www.kaggle.com/aryan56" target="_blank">
-    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
+  &nbsp;&nbsp;
   <a href="mailto:ryxn911@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="48px"/>
   </a>
-</p>
+
+</p>  
 
 ---
 
 <h2 align="center">🛠️ Languages & Tools</h2>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=c,python,anaconda,sklearn,vscode,github" height="50" />
+</p>
 </p>
 
 ---
