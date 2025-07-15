@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Aryan</h1>
 
 <p align="center">
-<strong>🎓 B.Tech CSE (Data Science) Student &nbsp;|&nbsp; 💻 Developer &nbsp;|&nbsp; 🤖 AI Enthusiast &nbsp;|&nbsp; 🎬 Cinephile</strong>
+<h3 <strong>🎓 B.Tech CSE (Data Science) Student &nbsp;|&nbsp; 💻 Developer &nbsp;|&nbsp; 🤖 AI Enthusiast &nbsp;|&nbsp; 🎬 Cinephile</strong> </h3>
 </p>
 
 ---
@@ -9,10 +9,12 @@
 <h2 align="center">🧠 About Me</h2>
 
 <p align=>
-I'm a curious and passionate techie currently pursuing Computer Science & Engineering with a specialization in Data Science.
+<strong>
+  I'm a curious and passionate techie currently pursuing Computer Science & Engineering with a specialization in Data Science.
 Very much into this new era of AI and Technology.<br><br>
 I love creating things — whether it's editing photos, writing code, or exploring the potential of AI to solve real-world problems.
 </p>
+</strong>
 
 ---
 
