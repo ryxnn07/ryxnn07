@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="21704649a5e698cfe70a862e71784fb1.jpg" alt="GitHub Banner" width="100%" />
+</p>
+
 <h1 align="center">👋 Hey, I'm Aryan</h1>
 
 <p align="center">
