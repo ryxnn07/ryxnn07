@@ -1,10 +1,10 @@
+<h1 align="center">👋 Hey, I'm Aryan</h1>
 <p align="center">
   <img src="githubbanner.jpg" alt="GitHub Banner" style="width: 100%; height: 250px; object-fit: cover;" />
 </p>
 
 ---
 
-<h1 align="center">👋 Hey, I'm Aryan</h1>
 
 <p align="center">
 <h3 <strong>🎓 B.Tech CSE (Data Science) Student &nbsp;|&nbsp; 💻 Developer &nbsp;|&nbsp; 🤖 AI Enthusiast &nbsp;|&nbsp; 🎬 Cinephile</strong> </h3>
