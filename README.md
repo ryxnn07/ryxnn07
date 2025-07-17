@@ -1,11 +1,16 @@
-<div align="center">
-<img src="githubbanner.jpg" alt="GitHub Banner" style="width: 100%; height: 250px; object-fit: cover;" />
-  
-  <h1>👋 Hey, I'm Aryan</h1>
-  
-  <p>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=cascadian+code&weight=500&size=25&duration=2000&pause=&color=FFFFFF&background=000000&center=true&vCenter=true&width=435&lines=Data+Scientist+;Machine+learner+;Python+Developer;AI+Enthusiast" alt="Typing SVG" /></a>
-  </p>
+<div align="center" style="width: 100%; overflow: hidden;">
+  <!-- Cinematic-style banner image -->
+  <img src="https://github.com/user-attachments/assets/96bd54a4-6cf5-4006-8773-b785433b1d70" 
+       alt="GitHub Banner" 
+       style="width: 100%; height: auto; max-height: 250px; object-fit: cover; border-radius: 12px;" />
+
+  <br><!-- Adds a clean space between banner and typing SVG -->
+
+  <!-- Typing SVG -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=cascadian+code&weight=500&size=25&duration=2000&pause=&color=FFFFFF&background=000000&center=true&vCenter=true&width=435&lines=Data+Scientist+;Machine+learner+;Python+Developer;AI+Enthusiast" alt="Typing SVG" />
+  </a>
+
 </div>
 
 ---
